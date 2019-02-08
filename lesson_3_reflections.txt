@@ -33,3 +33,7 @@ Now that you have your workspace set up, what do you want to try using Git for?
     Fill in your answer here
 
 Git Staging Area es un area temporal que incluye todo lo que vas a hacer commit. 
+
+
+Esto es un prueba de Branch Rama1
+
